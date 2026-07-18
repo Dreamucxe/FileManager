@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="seed">#FF6750A4</color>
+
+    <!-- Splash / starting window -->
+    <color name="splash_background">#FF6750A4</color>
+    <color name="splash_background_dark">#FF1C1B1F</color>
+</resources>

@@ -1,0 +1,53 @@
+package com.kiro.filemanager.presentation.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light scheme
+val md_primary = Color(0xFF6750A4)
+val md_onPrimary = Color(0xFFFFFFFF)
+val md_primaryContainer = Color(0xFFEADDFF)
+val md_onPrimaryContainer = Color(0xFF21005D)
+val md_secondary = Color(0xFF625B71)
+val md_onSecondary = Color(0xFFFFFFFF)
+val md_secondaryContainer = Color(0xFFE8DEF8)
+val md_onSecondaryContainer = Color(0xFF1D192B)
+val md_tertiary = Color(0xFF7D5260)
+val md_onTertiary = Color(0xFFFFFFFF)
+val md_tertiaryContainer = Color(0xFFFFD8E4)
+val md_onTertiaryContainer = Color(0xFF31111D)
+val md_background = Color(0xFFFFFBFE)
+val md_onBackground = Color(0xFF1C1B1F)
+val md_surface = Color(0xFFFFFBFE)
+val md_onSurface = Color(0xFF1C1B1F)
+val md_surfaceVariant = Color(0xFFE7E0EC)
+val md_onSurfaceVariant = Color(0xFF49454F)
+val md_outline = Color(0xFF79747E)
+val md_error = Color(0xFFB3261E)
+val md_onError = Color(0xFFFFFFFF)
+
+// Dark scheme
+val md_primary_dark = Color(0xFFD0BCFF)
+val md_onPrimary_dark = Color(0xFF381E72)
+val md_primaryContainer_dark = Color(0xFF4F378B)
+val md_onPrimaryContainer_dark = Color(0xFFEADDFF)
+val md_secondary_dark = Color(0xFFCCC2DC)
+val md_onSecondary_dark = Color(0xFF332D41)
+val md_secondaryContainer_dark = Color(0xFF4A4458)
+val md_onSecondaryContainer_dark = Color(0xFFE8DEF8)
+val md_tertiary_dark = Color(0xFFEFB8C8)
+val md_onTertiary_dark = Color(0xFF492532)
+val md_tertiaryContainer_dark = Color(0xFF633B48)
+val md_onTertiaryContainer_dark = Color(0xFFFFD8E4)
+val md_background_dark = Color(0xFF1C1B1F)
+val md_onBackground_dark = Color(0xFFE6E1E5)
+val md_surface_dark = Color(0xFF1C1B1F)
+val md_onSurface_dark = Color(0xFFE6E1E5)
+val md_surfaceVariant_dark = Color(0xFF49454F)
+val md_onSurfaceVariant_dark = Color(0xFFCAC4D0)
+val md_outline_dark = Color(0xFF938F99)
+val md_error_dark = Color(0xFFF2B8B5)
+val md_onError_dark = Color(0xFF601410)
+
+// AMOLED true black
+val md_background_amoled = Color(0xFF000000)
+val md_surface_amoled = Color(0xFF000000)

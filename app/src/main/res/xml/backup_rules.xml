@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="database" path="." />
+    <include domain="sharedpref" path="." />
+    <include domain="file" path="datastore/" />
+    <!-- Encrypted vault contents (file domain) are intentionally omitted: only
+         datastore/ is included above, so vault/ is never backed up. -->
+</full-backup-content>

@@ -1,0 +1,23 @@
+# Android / Gradle build
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk.idsig
+
+# App build output (APK published under releases/ instead)
+**/build/
+
+# Signing — NEVER commit these
+*.jks
+*.keystore
+keystore.properties
+
+# Logs
+*.log

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kiro Files</string>
+
+    <!-- Navigation / sections -->
+    <string name="nav_home">Home</string>
+    <string name="nav_browse">Browse</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home dashboard -->
+    <string name="storage_internal">Internal Storage</string>
+    <string name="storage_sdcard">SD Card</string>
+    <string name="storage_usb">USB OTG</string>
+    <string name="cat_downloads">Downloads</string>
+    <string name="cat_documents">Documents</string>
+    <string name="cat_images">Images</string>
+    <string name="cat_videos">Videos</string>
+    <string name="cat_music">Music</string>
+    <string name="cat_apk">APK Files</string>
+    <string name="cat_archives">Archives</string>
+    <string name="cat_favorites">Favorites</string>
+    <string name="cat_recent">Recent Files</string>
+    <string name="storage_usage">Storage Usage</string>
+    <string name="quick_access">Quick Access</string>
+    <string name="categories">Categories</string>
+    <string name="storage_devices">Storage</string>
+
+    <!-- File operations -->
+    <string name="action_copy">Copy</string>
+    <string name="action_move">Move</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_duplicate">Duplicate</string>
+    <string name="action_share">Share</string>
+    <string name="action_new_folder">New Folder</string>
+    <string name="action_new_file">New File</string>
+    <string name="action_properties">Properties</string>
+    <string name="action_paste">Paste</string>
+    <string name="action_select_all">Select All</string>
+    <string name="action_favorite">Add to Favorites</string>
+    <string name="action_unfavorite">Remove from Favorites</string>
+    <string name="action_open_with">Open with</string>
+    <string name="action_compress">Compress (ZIP)</string>
+    <string name="action_extract">Extract</string>
+    <string name="action_install">Install</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_restore">Restore</string>
+    <string name="action_empty_bin">Empty Recycle Bin</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+    <string name="search_hint">Search files…</string>
+    <string name="empty_folder">This folder is empty</string>
+    <string name="no_results">No results found</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Permissions -->
+    <string name="perm_storage_title">Storage access required</string>
+    <string name="perm_storage_body">Kiro Files needs access to your storage to browse and manage files. Grant \"All files access\" for full functionality.</string>
+    <string name="perm_grant">Grant access</string>
+
+    <!-- View modes / sort -->
+    <string name="view_grid">Grid view</string>
+    <string name="view_list">List view</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_size">Size</string>
+    <string name="sort_date">Date modified</string>
+    <string name="sort_type">Type</string>
+
+    <!-- Settings -->
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_system">Follow system</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_amoled">AMOLED black</string>
+    <string name="settings_dynamic_color">Material You dynamic color</string>
+    <string name="settings_accent">Accent color</string>
+    <string name="settings_default_folder">Default folder</string>
+    <string name="settings_show_hidden">Show hidden files</string>
+    <string name="settings_thumbnail_size">Thumbnail size</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_clear_cache">Clear cache</string>
+    <string name="settings_biometric">Biometric lock for vault</string>
+    <string name="settings_about">About</string>
+
+    <!-- Recycle bin -->
+    <string name="recycle_bin">Recycle Bin</string>
+    <string name="vault">Encrypted Vault</string>
+
+    <!-- Notifications -->
+    <string name="channel_operations">File Operations</string>
+    <string name="channel_playback">Media Playback</string>
+    <string name="channel_indexing">Background Indexing</string>
+</resources>
