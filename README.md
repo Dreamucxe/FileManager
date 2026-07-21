@@ -10,6 +10,15 @@ A modern Android file manager built with Jetpack Compose. Browse, search, and ma
 
 > Tap the button above to download the signed release APK directly, or grab it from [`releases/FileManager-release.apk`](releases/FileManager-release.apk).
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/screenshot-1.png" width="23%" alt="Home: storage overview and category shortcuts" />
+  <img src="docs/screenshots/screenshot-2.png" width="23%" alt="Browse: folder listing with sort and view options" />
+  <img src="docs/screenshots/screenshot-3.png" width="23%" alt="Settings: theme, browsing, and security options" />
+  <img src="docs/screenshots/screenshot-4.png" width="23%" alt="Search: filename search with type filters" />
+</p>
+
 ## Features
 
 - **Category browsing** — home-screen chips for Images, Videos, Audio, Documents, APKs, and Archives open a filtered view of every matching file on your device.
